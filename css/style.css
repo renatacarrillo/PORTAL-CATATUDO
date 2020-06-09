@@ -611,6 +611,13 @@ footer{
 .ml-web-foot{
     margin-left: 15px;
 }
+
+/*=================== PÁGINA FORMULÁRIO ===================*/
+.verdecla{
+    color: #29ac08;
+    /* border: 2px solid #38e70d; */
+ }
+
 }
 
 /* Desktop grande */
@@ -680,6 +687,7 @@ footer{
  .verdeesc{
      color: #297000;
  }
+
 
  /*SECTION*/
 
