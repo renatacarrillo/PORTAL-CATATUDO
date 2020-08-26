@@ -74,7 +74,7 @@
     <section>
         <div class="container esp-caixas esp-nav-home">
             <div class="row">
-                <div class="col-sm">
+                <div class="col-sm mt-5">
                     <h1 class="teste text-center"> VEJA COMO FUNCIONA </h1>
                     <hr>
                     </hr>
@@ -82,7 +82,7 @@
             </div>
 
             <div class="row efeito2">
-                <div class="col-sm-4 ml-5 mr-5 esp-caixas">
+                <div class="col-sm-4 ml-5 mr-5 mt-5 esp-caixas">
                     <h3 class="sombreamento-text">CADASTRO</h3>
                     <hr>
                     </hr>
@@ -251,12 +251,12 @@
 
     <!-- INCLUINDO O FOOTER -->
     <!-- FOOTER -->
-    <footer class="">
+    <footer class="foot-inteiro">
         <div class="row">
-            <div class="col-sm">
-                <?php include "includes/footer.php" ?>
-            </div>
-        </div>
+            <div class="col-12">
+                <?php include 'includes/footer.php'?>
+            <div>
+        </div>                
     </footer>
 
 </body>

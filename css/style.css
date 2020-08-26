@@ -434,7 +434,7 @@ hr{
 ul.square {
     list-style-type: square;
     color: #4DDD29;
-    margin-top: 185px;
+    margin-top: 50px;
     margin-left: 20px;
 }
 
@@ -453,11 +453,11 @@ h1{
 }
 
 .esp-caixas{
-    margin-top: 10px;
+    margin-top: 70px;
 }
 
 .esp-caixas-b{
-    margin-bottom: 10px;
+    margin-bottom: 70px;
 }
 
 
@@ -469,7 +469,7 @@ h1{
 }
 
 .esp-nav-home{
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .sombreamento-text-nav{
@@ -487,7 +487,7 @@ h1{
 
 .esp-nav-dois-home{
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .linha-cor-nav{
@@ -502,7 +502,7 @@ h1{
   }
 
 .img-gerdau{
-    margin-top: 100px;
+    margin-top: 20px;
 }
 
 /* PÁGINA NOTÍCIAS */
@@ -610,10 +610,6 @@ footer{
 
 .img-foot-tam{
     width: 150px;
-}
-
-.ml-web-foot{
-    margin-left: 15px;
 }
 
 /*=================== PÁGINA FORMULÁRIO ===================*/

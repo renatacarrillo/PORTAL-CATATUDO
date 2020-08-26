@@ -1,12 +1,12 @@
-<?php 
-echo "<div class='page-footer pt-4'>
+
+"<div class='page-footer pt-4'>
     <!-- Footer Links -->
 <div class='container-fluid text-center text-md-left'>
         <div class='row'>
             <!-- Grid column -->
     <div class='col-sm mt-md-0 mt-3'>
                 <h4 class='text-uppercase'>BAIXE O APP AGORA:</h4>
-                <a href='https://play.google.com/store?hl=pt_BR' class='text-white ml-web-foot'>PlayStore</a>
+                <a href='https://play.google.com/store?hl=pt_BR' class='text-white'>PlayStore</a>
                 <div class='col-sm'>
                     <a href='https://www.apple.com/br/ios/app-store/' class='text-white'>AppStore</a>
                 </div>
