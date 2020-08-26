@@ -36,7 +36,7 @@ include ("includes/header.php");
             <h4 class="font-weight-bold ml-5 mt-5 color-proj-dois">Conscientizando moradores, apoiando coletores!</h4>
             </div>  
             <div class="col-sm-6">
-            <img src="./IMAGENS/img-projeto-catadores.png" class="efeito2 img-fluid posi-not-img posi-app mt-5" alt="">
+            <img src="./IMAGENS/green.png" class="efeito2 img-fluid mt-5" alt="">
             </div>
         </div>
     </div>

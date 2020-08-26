@@ -226,7 +226,7 @@
                     <h5 class="square-color text-center">Tenha conhecimento de todos os materiais que PODEM ser reciclados.</h5>
                     <hr>
                     </hr>
-                    <div class="row">
+                    <div class="row mb-5">
                         <div class="col-sm">
                         <h4 class="text-center">PLÁSTICO</h4>
                         <img src="./IMAGENS/garrafa.png" class="efeito2 ic-garraf img-fluid"alt="Imagem Plástico">

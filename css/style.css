@@ -170,6 +170,9 @@ i{
     background-color: #f1f0f0;
 }
 
+.back-mob{
+    background-image: linear-gradient(rgb(6, 231, 17), rgb(14, 105, 2));
+}
 
 /* PÁGINA PROJETO */
 .posi-proj-um{
@@ -478,7 +481,7 @@ h1{
 }
 
 .cor-nav-home{
-    background-color: #1234f341;
+    background-color: #0c5c0550;
 }
 
 .esp-nav-dois-home{
@@ -541,10 +544,6 @@ h1{
 .posi-noticias{
     margin-top: 450px;
     margin-left: 400px;
-}
-
-.posi-img-not{
-    margin-left: 650px;
 }
 
 /*=================== PÁGINA PROJETO ===================*/

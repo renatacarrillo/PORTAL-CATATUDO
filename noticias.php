@@ -36,13 +36,13 @@ include ("includes/header.php");
         <div class="col-sm fundo-cinza-noticias">
         <div class="row">
         <div class="col-sm">
-            <img src="./IMAGENS/less.png" class="img-fluid posi-img-not-less mt-4" alt="">
+            <img src="./IMAGENS/notic-he.png" class="img-fluid posi-img-not-less mt-4" alt="">
         </div>
         </div>
             <h1 class="font-weight-bold verdeesc ml-3">Principais Notícias</h1>
         </div>
-        <div class="col-sm ">
-            <h3 class="font-weight-bold posi-noti-h-dois posi-noticias">Comprometida em reduzir de forma significativa o lixo gerado na região — especialmente quanto à reciclagem.</h3>
+        <div class="col-sm back-mob">
+            <h3 class="font-weight-bold posi-noticias text-white">Comprometida em reduzir de forma significativa o lixo gerado na região — especialmente quanto à reciclagem.</h3>
         </div>
         </div>
         </div>
