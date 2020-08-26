@@ -28,56 +28,46 @@
 include ("includes/header.php");
 ?>
 
+<!-- NAV PÁGINA QUEM SOMOS -->
+<nav class="mt-5 mb-5">
+    <div class="container-fluid fundo-verde-projeto">
+        <div class="row">
+        <div class="col-sm-6">
+            <h1 class="font-weight-bold ml-5 posi-proj-um">Conheça um pouco mais sobre nós!</h1>
+            </div>  
+            <div class="col-sm-6">
+            <img src="./IMAGENS/photo-1552581234-26160f608093.jpg" class="efeito2 img-fluid posi-not-img posi-app mt-5" alt="">
+            </div>
+        </div>
+    </div>
+</nav>
+
+<!-- SECTION PÁGINA QUEM SOMOS -->
 <section class="mt-5 mb-5">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-12">
-<h1 class="text-center sombreamento-text"> EM CONSTRUÇÃO </h1>
-</div>
-</div>
-</div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-12 mt-3">
+                <h1 class="text-center sombreamento-text"> SOBRE NÓS </h1>
+                <h5>Somos alunos da FATEC São Roque - Faculdade de Tecnologia de São Roque, iníciamos nossa jornada no curso de Sistemas para Internet
+                no 1º Semestre do ano de 2018. Composto por uma equipe de 3: Reginaldo Domingos, Renata Carrillo e Thais Machado.
+                <h5>
+            </div>
+        </div>
+    </div>
 </section>
 
-<section class="mt-5 mb-5">
 <div class="container-fluid">
-<div class="row">
-<div class="col-sm-12">
-<h1 class="text-center sombreamento-text"> EM CONSTRUÇÃO </h1>
-</div>
-</div>
-</div>
-</section>
-
-<section class="mt-5 mb-5">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-12">
-<h1 class="text-center sombreamento-text"> EM CONSTRUÇÃO </h1>
-</div>
-</div>
-</div>
-</section>
-
-<section class="mt-5 mb-5">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-12">
-<h1 class="text-center sombreamento-text"> EM CONSTRUÇÃO </h1>
-</div>
-</div>
-</div>
-</section>
-
-<section class="mt-5 mb-5">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-12">
-<h1 class="text-center sombreamento-text"> EM CONSTRUÇÃO </h1>
-</div>
-</div>
-</div>
-</section>
-
+        <div class="row">
+            <div class="col-sm-12 mt-3">
+            <h1 class="text-center sombreamento-text"> IDEIA DO PROJETO </h1>
+            <h5>A ideia do projeto CATATUDO, surgiu logo no 3º semestre do nosso curso de Sistema para Interner, durante uma conversa entre a equipe,
+            onde se apontou o levantamento de circuntâncias que deixavam claro a ausência de um sistema como o CATATUDO, por carência de coletas seletivas
+            em muitos bairros onde 2 integrantes da equipe vivem. Foi pensando também na possibilidade de ajuda a coletores, que normalmente fazem dessa
+            atividade como sustento e complementação de renda. Foi então que inicíamos a elaboração do projeto com pesquisas de campo, teste de usabilidade e etc.
+            <h5>
+            </div>
+        </div>
+    </div>
 
 <!-- INCLUINDO O FOOTER -->
         <!-- FOOTER -->

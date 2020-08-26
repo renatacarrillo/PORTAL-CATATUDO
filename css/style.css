@@ -449,11 +449,11 @@ h1{
 }
 
 .esp-caixas{
-    margin-top: 180px;
+    margin-top: 10px;
 }
 
 .esp-caixas-b{
-    margin-bottom: 160px;
+    margin-bottom: 10px;
 }
 
 
@@ -465,7 +465,7 @@ h1{
 }
 
 .esp-nav-home{
-    margin-bottom: 150px;
+    margin-bottom: 10px;
 }
 
 .sombreamento-text-nav{
@@ -478,12 +478,12 @@ h1{
 }
 
 .cor-nav-home{
-    background-color: #a7a7a756;
+    background-color: #27e20241;
 }
 
 .esp-nav-dois-home{
-    margin-top: 120px;
-    margin-bottom: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .linha-cor-nav{
@@ -494,7 +494,7 @@ h1{
 .vl {
     border-left: 3px solid rgba(0, 128, 0, 0.582);
     height: 100px;
-    margin-top: 100px;
+    margin-top: 10px;
   }
 
 .img-gerdau{
@@ -618,6 +618,9 @@ footer{
     /* border: 2px solid #38e70d; */
  }
 
+
+ /*================= PÁGINA QUEM SOMOS ====================*/
+
 }
 
 /* Desktop grande */
@@ -730,7 +733,7 @@ i{
 }
 
 .esp-nav-home{
-    margin-bottom: 150px;
+    margin-bottom: 10px;
 }
 
 .sombreamento-text-nav{
@@ -747,8 +750,8 @@ i{
 }
 
 .esp-nav-dois-home{
-    margin-top: 120px;
-    margin-bottom: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .linha-cor-nav{
@@ -759,7 +762,7 @@ i{
 .vl {
     border-left: 3px solid rgba(0, 128, 0, 0.582);
     height: 100px;
-    margin-top: 100px;
+    margin-top: 10px;
   }
 
 .img-gerdau{
