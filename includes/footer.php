@@ -1,5 +1,6 @@
 
-"<div class='page-footer pt-4'>
+<?php
+echo "<div class='page-footer pt-4'>
     <!-- Footer Links -->
 <div class='container-fluid text-center text-md-left'>
         <div class='row'>
