@@ -1,8 +1,8 @@
-
 <?php
-echo "<div class='page-footer pt-4'>
+echo
+"<footer class='page-footer pt-4'>
     <!-- Footer Links -->
-<div class='container-fluid text-center text-md-left'>
+<div class='container-fluid text-md-left'>
         <div class='row'>
             <!-- Grid column -->
     <div class='col-sm mt-md-0 mt-3'>
@@ -49,4 +49,4 @@ echo "<div class='page-footer pt-4'>
 <div class='text-center mb-1 mt-5'>
         <img src='./IMAGENS/CATATUDO.png' class='img-foot-tam img-fluid' alt='logotipo CATATUDO'>
 </div>
-    </div>";
+</footer>";

@@ -36,10 +36,10 @@ include ("includes/header.php");
         <div class="col-sm fundo-cinza-noticias">
         <div class="row">
         <div class="col-sm">
-            <img src="./IMAGENS/img-projeto-caixa.png" class="img-fluid posi-img-not posi-app mt-5" alt="">
+            <img src="./IMAGENS/less.png" class="img-fluid posi-img-not-less mt-4" alt="">
         </div>
         </div>
-            <h1 class="font-weight-bold verdeesc ml-3 notic-h">Veja as notícias do Projeto</h1>
+            <h1 class="font-weight-bold verdeesc ml-3">Principais Notícias</h1>
         </div>
         <div class="col-sm ">
             <h3 class="font-weight-bold posi-noti-h-dois posi-noticias">Comprometida em reduzir de forma significativa o lixo gerado na região — especialmente quanto à reciclagem.</h3>
@@ -60,28 +60,23 @@ include ("includes/header.php");
 
         <div class="row">
             <div class="col-sm-12 ml-3 mt-5 mb-5">
-                <img src="./IMAGENS/adidas.png" class="efeito2 img-fluid btn btn-link" alt="">
-                <h2 class="teste mt-2 ml-4">Adidas lança tênis do futuro feito de um único material 100% reciclável.</h2>
-                <p class="square-color mt-1 ml-4">DIRETO DE: exame.com</p>
+                <a href='https://www.portalr3.com.br/2019/02/acao-lixo-marinho-retira-600-garrafas-pet-do-mar-em-ilhabela/'>
+                <img src="./IMAGENS/not-garr.png" class="efeito2 img-fluid btn btn-link" alt="">
+                </a>
+                <h2 class="teste mt-2 ml-4">Ação Lixo Marinho retira 600 garrafas pet do mar em Ilhabela</h2>
+                <p class="square-color mt-1 ml-4">DIRETO DE: portalr3.com.br</p>
             </div>
         </div>  
 
         <div class="row">
             <div class="col-sm-12 ml-3 mt-5 mb-5">
-                <img src="./IMAGENS/gerdau.png" class="efeito2 img-fluid btn btn-link" alt="">
-                <h2 class="teste mt-2 ml-4">Gerdau oferece US$ 45 mil por soluções inovadoras em reciclagem.</h2>
-                <p class="square-color mt-1 ml-4">DIRETO DE: exame.com</p>
+                <a href='https://boxedwaterisbetter.com/'>
+                <img src="./IMAGENS/boxedwater.png" class="efeito2 img-fluid btn btn-link" alt="">
+                </a>
+                <h2 class="teste mt-2 ml-4">Empresa Boxed Water Is Better LLC faz garrafas de um jeito inovador.</h2>
+                <p class="square-color mt-1 ml-4">DIRETO DE: boxedwaterisbetter.com</p>
             </div>
         </div>
-
-        <div class="row">
-            <div class="col-sm-12 ml-3 mt-5 mb-5">
-                <img src="./IMAGENS/starbucks.png" class="efeito2 img-fluid btn btn-link" alt="">
-                <h2 class="teste mt-2 ml-4">Starbucks transforma lixo plástico de suas lojas em mobília.</h2>
-                <p class="square-color mt-1 ml-4">DIRETO DE: exame.com</p>
-            </div>
-        </div>
-
     </div>
 </section>
 

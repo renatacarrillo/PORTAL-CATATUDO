@@ -177,14 +177,6 @@ i{
     color: #ffffff;
 }
 
-.posi-app{
-    margin-left: 60px;
-}
-
-.posi-app-quem-somos{
-    margin-left: 10px;
-}
-
 .color-proj-dois{
     color: rgb(0, 0, 0);
 }
@@ -448,6 +440,10 @@ i{
     
 }
 
+.ic-garraf{
+    font-size: 175px;
+}
+
 h1{
     color: #297000;
 }
@@ -482,7 +478,7 @@ h1{
 }
 
 .cor-nav-home{
-    background-color: #27e20241;
+    background-color: #1234f341;
 }
 
 .esp-nav-dois-home{
@@ -503,6 +499,10 @@ h1{
 
 .img-gerdau{
     margin-top: 20px;
+}
+
+.img-logo-garrafa{
+    height: 500px;
 }
 
 /* PÁGINA NOTÍCIAS */
@@ -537,9 +537,6 @@ h1{
     top: 95px;
 }
 
-/* .notic-h{
-    margin-top: 200px;
-} */
 
 .posi-noticias{
     margin-top: 450px;
@@ -549,7 +546,6 @@ h1{
 .posi-img-not{
     margin-left: 650px;
 }
-
 
 /*=================== PÁGINA PROJETO ===================*/
 .posi-proj-um{

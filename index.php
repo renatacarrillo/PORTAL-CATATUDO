@@ -176,7 +176,7 @@
 
     <!-- NAV PARCEIROS -->
     <nav class="esp-nav-home">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-sm esp-caixas-b tam-mob-ind">
                     <h1 class="teste text-center"> PARCEIROS </h1>
@@ -185,28 +185,28 @@
 
                     <div class="row mt-5 cor-nav-home">
                         <div class="col-sm tam-mob-ind-li">
-                            <h3 class="mt-5 mb-5 ml-1 sombreamento-text-nav">MORADORES</h3>
+                            <h3 class="mt-5 mb-5 ml-1">MORADORES</h3>
                             <i class="efeito fas fa-users icons-nav-green ml-5 mb-5"></i>
                         </div>
 
                         <div class="vl mr-5"></div>
 
                         <div class="col-sm tam-mob-ind-lix">
-                            <h3 class="mt-5 mb-5 ml-1 sombreamento-text-nav">COLETORES</h3>
+                            <h3 class="mt-5 mb-5 ml-1">COLETORES</h3>
                             <i class="efeito fas fa-trash-alt icons-nav ml-5 mb-5"></i>
                         </div>
 
                         <div class="vl mr-5"></div>
 
                         <div class="col-sm tam-mob-ind-lix">
-                            <h3 class="mt-5 mb-5 ml-1 sombreamento-text-nav">PREFEITURA</h3>
+                            <h3 class="mt-5 mb-5 ml-1">PREFEITURA</h3>
                             <i class="efeito fas fa-archway icons-nav-green ml-5 mb-5"></i>
                         </div>
 
                         <div class="vl mr-5"></div>
 
                         <div class="col-sm tam-mob-ind-lix">
-                            <h3 class="mt-5 mb-5 ml-1 sombreamento-text-nav">INDÚSTRIAS</h3>
+                            <h3 class="mt-5 mb-5 ml-1">INDÚSTRIAS</h3>
                             <i class="efeito fas fa-city icons-nav ml-5 mb-5"></i>
                         </div>
 
@@ -217,29 +217,69 @@
         </div>
     </nav>
 
+     <!-- NAV MATERIAIS RECICLAVEIS -->
+     <nav class="esp-nav-dois-home">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm mt-2">
+                    <h1 class="teste text-center">MATERIAIS RECICLÁVEIS</h1>
+                    <h5 class="square-color text-center">Tenha conhecimento de todos os materiais que PODEM ser reciclados.</h5>
+                    <hr>
+                    </hr>
+                    <div class="row">
+                        <div class="col-sm">
+                        <h4 class="text-center">PLÁSTICO</h4>
+                        <img src="./IMAGENS/garrafa.png" class="efeito2 ic-garraf img-fluid"alt="Imagem Plástico">
+                        </div>
+
+                        <div class="vl mr-5"></div>
+
+                        <div class="col-sm">
+                        <h4 class="text-center">PAPEL</h4>
+                        <img src="./IMAGENS/papel.png" class="efeito2 ic-garraf img-fluid"alt="Imagem Papel">
+                        </div>
+
+                        <div class="vl mr-5"></div>
+
+                        <div class="col-sm">
+                        <h4 class="text-center">VIDRO</h4>
+                        <img src="./IMAGENS/vidro.png" class="efeito2 ic-garraf img-fluid"alt="Imagem Vidro">
+                        </div>
+
+                        <div class="vl mr-5"></div>
+                        
+                        <div class="col-sm">
+                        <h4 class="text-center">METAL</h4>
+                        <img src="./IMAGENS/metal.png" class="efeito2 ic-garraf img-fluid"alt="Imagem Metal">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </nav>
+
+
     <!-- NAV INF -->
     <nav class="esp-nav-dois-home">
         <div class="container">
             <div class="row">
-                <div class="col-sm">
-                    <h1 class="teste text-center">O CATATUDO É O PORTAL PARA AJUDAR NO CONTROLE DO LIXO RECICLÁVEL</h1>
+                <div class="col-sm mb-5 mt-5">
+                    <h2 class="teste text-center">O CATATUDO É O PORTAL PARA AJUDAR NO CONTROLE DO LIXO RECICLÁVEL</h>
                     <hr>
                     </hr>
 
                     <div class="row">
                         <div class="col-sm esp-nav-dois-home">
-                            <hr class="linha-cor-nav">
-                            </hr>
-                            <h3 class="square-color">Pessoas conscientes, como você, ajudam tanto o meio ambiente, como
+                            <h3 class="square-color mt-3">Pessoas conscientes, como você, ajudam tanto o meio ambiente, como
                                 os coletores que são imprescindíveis nessa causa.</h3>
                             <h2 class="text-center mt-4 sombreamento-text-nav">JUNTE-SE A NÓS!</h2>
-                            <hr class="linha-cor-nav">
-                            </hr>
                         </div>
 
                         <div class="col-sm">
-                            <img src="./IMAGENS/gerdau-2.png" class="efeito2 img-gerdau img-fluid"
-                                alt="Imagem fonte Gerdau">
+                            <img src="./IMAGENS/boxed.png" class="efeito2 img-gerdau img-fluid"
+                                alt="Imagem Boxed Water">
                         </div>
 
                     </div>
@@ -251,14 +291,7 @@
 
     <!-- INCLUINDO O FOOTER -->
     <!-- FOOTER -->
-    <footer class="foot-inteiro">
-        <div class="row">
-            <div class="col-12">
-                <?php include 'includes/footer.php'?>
-            <div>
-        </div>                
-    </footer>
+        <?php include 'includes/footer.php'?>
 
 </body>
-
 </html>
