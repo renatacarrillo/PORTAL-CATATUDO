@@ -61,7 +61,7 @@ include ("includes/header.php");
             <div class="efeito2 col-sm ml-3 mt-5 mb-5">
             <i class="fas fa-laptop-code icons-nav-green ml-4"></i>
                 <h2 class="teste mt-2 ml-4">DESENVOLVEDORES</h2>
-                <p class="square-color mt-1 ml-4">O objetivo do nosso projeto, é algo urgente, necessário, IMPORTANTE, para a conscientização das pessoas como um todo, e não menos importante o alcance considerável da diminuição dos lixos em todo o mundo, todos sabemos que dá pra reciclar, dá pra separar esse lixo reciclável do lixo orgânico, então o enfoque principal é essa mudança da população perante o lixo que descarta.</p>
+                <p class="square-color mt-1 ml-4">A equipe de desenvolvimento é composta por 3 pessoas: Reginaldo Domingos, Renata Carrillo e Thais Machado. Todos alunos da FATEC São Roque - Faculdade de tecnologia de São Roque, e estudantes do curso de Sistemas para Internet. Desenvolvido exclusivamente para o Trabalho de Graduação de 2020.</p>
             </div>
         </div>
 
@@ -71,13 +71,13 @@ include ("includes/header.php");
             <div class="efeito2 col-sm ml-3 mt-5 mb-5">
             <i class="fas fa-hands-helping icons-nav-green ml-4"></i>
                 <h2 class="teste mt-2 ml-4">PARCERIAS</h2>
-                <p class="square-color mt-1 ml-4">O objetivo do nosso projeto, é algo urgente, necessário, IMPORTANTE, para a conscientização das pessoas como um todo, e não menos importante o alcance considerável da diminuição dos lixos em todo o mundo, todos sabemos que dá pra reciclar, dá pra separar esse lixo reciclável do lixo orgânico, então o enfoque principal é essa mudança da população perante o lixo que descarta.</p>
+                <p class="square-color mt-1 ml-4">O projeto tem como finalidade gerar parcerias com empresas, instituições, prefeituras e etc. Acreditamos que com cooperação, o projeto pode crescer positivamente, alcançando outros requisitos e paramêtros. A gente conta com vocês para essa causa extremamente importante e urgente.</p>
             </div>
 
             <div class="efeito2 col-sm ml-3 mt-5 mb-5">
             <i class="fas fa-people-arrows icons-nav-green ml-4"></i>
                 <h2 class="teste mt-2 ml-4">ENVOLVIDOS</h2>
-                <p class="square-color mt-1 ml-4">O objetivo do nosso projeto, é algo urgente, necessário, IMPORTANTE, para a conscientização das pessoas como um todo, e não menos importante o alcance considerável da diminuição dos lixos em todo o mundo, todos sabemos que dá pra reciclar, dá pra separar esse lixo reciclável do lixo orgânico, então o enfoque principal é essa mudança da população perante o lixo que descarta.</p>
+                <p class="square-color mt-1 ml-4">Os envolvidos desse projeto, são de uma forma geral, as pessoas, qualquer indivíduo que queira contribuir com o nosso projeto, pode efetuar seu cadastro em nosso sistema, e começar utilizar de nossos serviços, ao mesmo tempo que, contribui com a preservação do meio ambiente, e claro, ajuda todos os coletores, que seram nossa base para esse projeto se tornar possível.</p>
             </div>
         </div>
     </div>  

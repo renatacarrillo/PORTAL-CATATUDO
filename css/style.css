@@ -181,6 +181,10 @@ i{
     margin-left: 60px;
 }
 
+.posi-app-quem-somos{
+    margin-left: 10px;
+}
+
 .color-proj-dois{
     color: rgb(0, 0, 0);
 }
@@ -620,7 +624,9 @@ footer{
 
 
  /*================= PÁGINA QUEM SOMOS ====================*/
-
+ .posi-not-img-quem-somos{
+    margin-left: 30px;
+}
 }
 
 /* Desktop grande */
