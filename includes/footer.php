@@ -51,6 +51,6 @@
 
 <!-- scripts js  -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="<?php echo SITE_URL ?>/js/jquery-3.5.1.min.js"></script>
-<script src="<?php echo SITE_URL ?>/js/bootstrap.bundle.min.js"></script>
-<script src="<?php echo SITE_URL ?>/js/registrer.js"></script>
+<script src="js/jquery-3.5.1.min.js"> </script>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/registrer.js"></script>

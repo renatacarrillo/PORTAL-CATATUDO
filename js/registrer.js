@@ -56,7 +56,6 @@ $(document).ready(function () {
       })
       .fail(function (jqXHR, textStatus, msg) {
         alert(msg);
-        console.log("fail");
       });
 
     function msgReponse(msg, type) {
