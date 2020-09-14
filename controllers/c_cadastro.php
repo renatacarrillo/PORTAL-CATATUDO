@@ -1,5 +1,9 @@
 <?php
 
+/** remover os warnings do frontend */
+error_reporting(0);
+
+
 if (!defined('CATATUDO_API')) {
   include_once '../config.php';
 }

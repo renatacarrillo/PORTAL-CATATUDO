@@ -856,7 +856,13 @@
 }
 
 .form-cadastro label {
-  margin-bottom: 0.1rem;
+  margin-bottom: 0.09rem;
+  font-size: 12px;
+}
+
+#section-register .form-group,
+#section-register p {
+  margin-bottom: 0.5rem;
 }
 
 .side-registrer {
