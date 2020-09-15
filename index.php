@@ -36,8 +36,7 @@
         <img src="./IMAGENS/businessinsider.png" class="img-garrafa" alt="Imagem de uma garrafa no mar">
       </div>
       <div class="row">
-        <div class="col-sm fundo-escuro">
-        </div>
+        <div class="col-sm fundo-escuro"></div>
         <div class="col-sm fundo-cinza">
           <h1 class="font-weight-bold text-princ ml-3">O planeta ainda pode ser RECICLADO</h1>
           <h3 class="corverde ml-3 mt-5">Você também pode ajudar a salvar o planeta, é só baixar o aplicativo
@@ -63,16 +62,14 @@
       <div class="row">
         <div class="col-sm mt-5">
           <h1 class="teste text-center"> VEJA COMO FUNCIONA </h1>
-          <hr>
-          </hr>
+          <hr></hr>
         </div>
       </div>
 
       <div class="row efeito2">
         <div class="col-sm-4 ml-5 mr-5 mt-5 esp-caixas">
           <h3 class="sombreamento-text">CADASTRO</h3>
-          <hr>
-          </hr>
+          <hr></hr>
           <h5 class="square-color">Você faz o cadastro no site e baixa o aplicativo nas lojas.</h5>
         </div>
 
@@ -100,8 +97,7 @@
       <div class="row efeito2">
         <div class="col-sm-4 ml-5 mr-5 esp-caixas">
           <h3 class="sombreamento-text">AGENDAMENTO</h3>
-          <hr>
-          </hr>
+          <hr></hr>
           <h5 class="square-color">Você separa o lixo reciclável e pelo aplicativo agenda uma data para o
             coletor ir buscar.</h5>
         </div>
@@ -123,7 +119,6 @@
             <div class="col-sm ml-4 esp-caixas">
               <i class="far fa-calendar-check posi-mob-ind"></i>
             </div>
-          </div>
         </div>
       </div>
 
@@ -131,8 +126,7 @@
       <div class="row efeito2">
         <div class="col-sm-4 ml-5 mr-5 esp-caixas esp-caixas-b">
           <h3 class="sombreamento-text">PRONTO!</h3>
-          <hr>
-          </hr>
+          <hr></hr>
           <h5 class="square-color">Você separa o lixo reciclável e aguarda um coletor ir fazer a retirada.
           </h5>
         </div>
@@ -148,71 +142,27 @@
               </h5>
             </ul>
           </div>
+        </div>
 
           <div class="row">
             <div class="col-sm ml-4 esp-caixas">
               <i class="fas fa-globe-americas posi-mob-ind-ul"></i>
             </div>
           </div>
-        </div>
-      </div>
 
     </div>
   </section>
 
-
-  <!-- NAV PARCEIROS -->
-  <nav class="esp-nav-home">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm esp-caixas-b tam-mob-ind">
-          <h1 class="teste text-center"> PARCEIROS </h1>
-          <hr>
-          </hr>
-
-          <div class="row mt-5 cor-nav-home">
-            <div class="col-sm tam-mob-ind-li">
-              <h3 class="mt-5 mb-5 ml-1">MORADORES</h3>
-              <i class="efeito fas fa-users icons-nav-green ml-5 mb-5"></i>
-            </div>
-
-            <div class="vl mr-5"></div>
-
-            <div class="col-sm tam-mob-ind-lix">
-              <h3 class="mt-5 mb-5 ml-1">COLETORES</h3>
-              <i class="efeito fas fa-trash-alt icons-nav ml-5 mb-5"></i>
-            </div>
-
-            <div class="vl mr-5"></div>
-
-            <div class="col-sm tam-mob-ind-lix">
-              <h3 class="mt-5 mb-5 ml-1">PREFEITURA</h3>
-              <i class="efeito fas fa-archway icons-nav-green ml-5 mb-5"></i>
-            </div>
-
-            <div class="vl mr-5"></div>
-
-            <div class="col-sm tam-mob-ind-lix">
-              <h3 class="mt-5 mb-5 ml-1">INDÚSTRIAS</h3>
-              <i class="efeito fas fa-city icons-nav ml-5 mb-5"></i>
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-  </nav>
-
   <!-- NAV MATERIAIS RECICLAVEIS -->
-  <nav class="esp-nav-dois-home">
+  <nav class="esp-nav-dois-home mt-5">
     <div class="container">
       <div class="row">
         <div class="col-sm mt-2">
+
           <h1 class="teste text-center">MATERIAIS RECICLÁVEIS</h1>
           <h5 class="square-color text-center">Tenha conhecimento de todos os materiais que PODEM ser reciclados.</h5>
-          <hr>
-          </hr>
+          <hr></hr>
+
           <div class="row mb-5">
             <div class="col-sm">
               <h4 class="text-center">PLÁSTICO</h4>
@@ -239,11 +189,10 @@
               <h4 class="text-center">METAL</h4>
               <img src="./IMAGENS/metal.png" class="efeito2 ic-garraf img-fluid" alt="Imagem Metal">
             </div>
+            </div>
 
-          </div>
         </div>
       </div>
-    </div>
     </div>
   </nav>
 
@@ -267,11 +216,9 @@
               <div class="col-sm">
                 <img src="./IMAGENS/boxed.png" class="efeito2 img-gerdau img-fluid" alt="Imagem Boxed Water">
               </div>
-
-            </div>
+              
         </div>
       </div>
-    </div>
     </div>
   </nav>
 
@@ -280,5 +227,4 @@
   <?php include 'includes/footer.php' ?>
 
 </body>
-
 </html>

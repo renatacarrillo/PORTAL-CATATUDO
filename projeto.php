@@ -84,17 +84,48 @@
     </div>
   </section>
 
-  <section>
-    <div class="container">
+  <!-- NAV PARCEIROS -->
+  <nav class="esp-nav-home">
+    <div class="container-fluid">
       <div class="row">
-        <div class="col-sm esp-caixas-proj">
-          <h2 class="square-color text-center">O objetivo maior é te</h2>
-          <h1 class="sombreamento-text text-center">CONSCIENTIZAR!</h1>
-          <img src="./IMAGENS/Reciclagem-1.png" class="efeito2 img-fluid mt-5 mb-5" alt="">
+        <div class="col-sm esp-caixas-b tam-mob-ind">
+          <h1 class="teste text-center"> PARCEIROS </h1>
+          <hr>
+          </hr>
+
+          <div class="row mt-5 cor-nav-home">
+            <div class="col-sm tam-mob-ind-li">
+              <h3 class="mt-5 mb-5 ml-1">MORADORES</h3>
+              <i class="efeito fas fa-users icons-nav-green ml-5 mb-5"></i>
+            </div>
+
+            <div class="vl mr-5"></div>
+
+            <div class="col-sm tam-mob-ind-lix">
+              <h3 class="mt-5 mb-5 ml-1">COLETORES</h3>
+              <i class="efeito fas fa-trash-alt icons-nav ml-5 mb-5"></i>
+            </div>
+
+            <div class="vl mr-5"></div>
+
+            <div class="col-sm tam-mob-ind-lix">
+              <h3 class="mt-5 mb-5 ml-1">PREFEITURA</h3>
+              <i class="efeito fas fa-archway icons-nav-green ml-5 mb-5"></i>
+            </div>
+
+            <div class="vl mr-5"></div>
+
+            <div class="col-sm tam-mob-ind-lix">
+              <h3 class="mt-5 mb-5 ml-1">INDÚSTRIAS</h3>
+              <i class="efeito fas fa-city icons-nav ml-5 mb-5"></i>
+            </div>
+
+          </div>
         </div>
       </div>
     </div>
-  </section>
+    </div>
+  </nav>
 
   <!-- INCLUINDO O FOOTER -->
   <!-- FOOTER -->
