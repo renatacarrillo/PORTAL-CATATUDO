@@ -121,6 +121,7 @@
             </div>
         </div>
       </div>
+    </div>
 
 
       <div class="row efeito2">
@@ -149,7 +150,7 @@
               <i class="fas fa-globe-americas posi-mob-ind-ul"></i>
             </div>
           </div>
-
+      </div>
     </div>
   </section>
 
