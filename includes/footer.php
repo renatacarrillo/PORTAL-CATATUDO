@@ -1,38 +1,39 @@
-<footer class='w-100 pt-4'>
-  <!-- Footer Links -->
-  <div class='container-fluid text-md-left'>
+<footer class='container py-3'>
     <div class='row'>
+
       <!-- Grid column -->
-      <div class='col mt-md-0 mt-3'>
+      <div class='col-sm-12 col-md'>
         <h4 class='text-uppercase font-weight-bold'>BAIXE O APP AGORA:</h4>
-        <a href='https://play.google.com/store?hl=pt_BR' class='text-white font-weight-bold'>PlayStore</a>
-        <div class='col'>
-          <a href='https://www.apple.com/br/ios/app-store/' class='text-white font-weight-bold'>AppStore</a>
+        <div class="row">
+        <a href='https://play.google.com/store?hl=pt_BR' class='efeito3 btn text-white font-weight-bold'>PARA iOS</a>
+        </div>
+        <div class="row">
+          <a href='https://www.apple.com/br/ios/app-store/' class='efeito3 btn text-white font-weight-bold'>PARA ANDROID</a>
         </div>
       </div>
       <!-- Grid column -->
-      <div class='col mb-md-0 mb-3 mg-mob-foot'>
+      <div class='col-sm mb-md-0 mb-3 mg-mob-foot'>
         <!-- Links -->
-        <h4 class='font-weight-bold'>INFORMATIVOS</h4>
+        <h4 class='font-weight-bold'>CADASTRE-SE</h4>
         <ul class='list-unstyled'>
           <li>
-            <a href='quemsomos.php' class='text-white font-weight-bold'>Quem Somos</a>
+          <a href='#' type='button' class='btn btn-primary font-weight-bold slide-register-open'>CADASTRE-SE</a>
           </li>
         </ul>
       </div>
       <!-- Grid column -->
-      <div class='col-sm-3 mb-md-0 mb-3'>
+      <div class='col-sm mb-md-0 mb-3'>
         <!-- Links -->
         <h4 class='font-weight-bold'>SITE</h4>
         <ul class='list-unstyled'>
           <li>
-            <a href='cadastro.php' class='text-white font-weight-bold'>Home</a>
+          <a href='noticias.php' type='button' class='efeito3 btn text-white font-weight-bold'>NOTÍCIAS</a>
           </li>
           <li>
-            <a href='noticias.php' class='text-white font-weight-bold'>Notícias</a>
+          <a href='projeto.php' type='button' class='efeito3 btn text-white font-weight-bold'>PROJETO</a>
           </li>
           <li>
-            <a href='projeto.php' class='text-white font-weight-bold'>Projeto</a>
+          <a href='quemsomos.php' type='button' class='efeito3 btn text-white font-weight-bold'>QUEM SOMOS</a>
           </li>
         </ul>
       </div>
@@ -45,8 +46,8 @@
     <img src='./IMAGENS/CATATUDO.png' class='img-foot-tam img-fluid' alt='logotipo CATATUDO'>
   </div>
   <div class="row">
-      <div class="col text-center ft-escuro">
-        <p><small>2020 - PCT - Projeto CataTudo - Reginaldo Domingos, Renata Carrillo e Thais Machado</small></p>
+      <div class="col text-center text-white">
+      <small>2020 - PCT - Projeto CataTudo - Reginaldo Domingos, Renata Carrillo e Thais Machado</small>
       </div>
     </div>
 </footer>

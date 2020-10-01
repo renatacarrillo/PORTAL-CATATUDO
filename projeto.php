@@ -21,7 +21,7 @@
 
 </head>
 
-<body class='container-fluid'>
+<body>
   <!-- INCLUINDO O HEADER -->
   <?php
   include("includes/header.php");
@@ -86,14 +86,14 @@
 
   <!-- NAV PARCEIROS -->
   <nav class="esp-nav-home">
-    <div class="container-fluid">
+    <div class="container">
       <div class="row">
         <div class="col-sm esp-caixas-b tam-mob-ind">
           <h1 class="teste text-center"> PARCEIROS </h1>
           <hr>
           </hr>
 
-          <div class="row mt-5 cor-nav-home">
+          <div class="row mt-5">
             <div class="col-sm tam-mob-ind-li">
               <h3 class="mt-5 mb-5 ml-1">MORADORES</h3>
               <i class="efeito fas fa-users icons-nav-green ml-5 mb-5"></i>

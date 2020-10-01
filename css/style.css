@@ -192,13 +192,7 @@
   }
 
   /* FOOTER */
-  footer {
-    background-image: linear-gradient(rgb(6, 231, 17), rgb(14, 105, 2));
-  }
 
-  .img-foot-tam {
-    width: 150px;
-  }
 
   .mg-mob-foot {
     margin-top: 30px;
@@ -319,9 +313,6 @@
   }
 
   /* FOOTER */
-footer {
-    background-image: linear-gradient(rgb(6, 231, 17), rgb(14, 105, 2));
-  }
 }
 
 /******** DESKTOP PADRÃO ********/
@@ -576,13 +567,6 @@ footer {
   }
 
   /* FOOTER */
-  footer {
-    background-image: linear-gradient(rgb(6, 231, 17), rgb(14, 105, 2));
-  }
-
-  .img-foot-tam {
-    width: 150px;
-  }
 
   /*=================== PÁGINA FORMULÁRIO ===================*/
   .verdecla {
@@ -591,9 +575,7 @@ footer {
   }
 
   /*================= PÁGINA QUEM SOMOS ====================*/
-  .posi-not-img-quem-somos {
-    margin-left: 30px;
-  }
+
 }
 
 /* Desktop grande */
@@ -800,9 +782,6 @@ footer {
   }
 
   /* FOOTER */
-  footer {
-    background-image: linear-gradient(rgb(6, 231, 17), rgb(14, 105, 2));
-  }
 
   .acess-adm {
     color: #000000;

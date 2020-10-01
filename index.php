@@ -26,7 +26,7 @@
 
 </head>
 
-<body class='container-fluid'>
+<body>
   <!-- INCLUINDO O HEADER -->
   <?php include "includes/header.php" ?>
 
@@ -49,8 +49,6 @@
               <a href="https://www.apple.com/br/ios/app-store/"><img src="./IMAGENS/appstore.png" class="img-fluid"></a>
             </div>
           </div>
-        </div>
-        <div class="col-sm">
         </div>
       </div>
     </div>
@@ -170,7 +168,7 @@
               <img src="./IMAGENS/garrafa.png" class="efeito2 ic-garraf img-fluid" alt="Imagem Plástico">
             </div>
 
-            <div class="vl mr-5"></div>
+            <div class="vl mr-0"></div>
 
             <div class="col-sm">
               <h4 class="text-center">PAPEL</h4>
@@ -211,7 +209,7 @@
               <div class="col-sm esp-nav-dois-home">
                 <h3 class="square-color mt-3">Pessoas conscientes, como você, ajudam tanto o meio ambiente, como
                   os coletores que são imprescindíveis nessa causa.</h3>
-                <h2 class="text-center mt-4 sombreamento-text-nav">JUNTE-SE A NÓS!</h2>
+                <h2 class="text-center mt-4 sombreamento-text-nav font-weight-bold">JUNTE-SE A NÓS!</h2>
               </div>
 
               <div class="col-sm">
@@ -223,8 +221,8 @@
     </div>
   </nav>
 
-  <!-- INCLUINDO O FOOTER -->
   <!-- FOOTER -->
+  <!-- INCLUINDO O FOOTER -->
   <?php include 'includes/footer.php' ?>
 
 </body>
