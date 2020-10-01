@@ -78,6 +78,7 @@
       </div>
     </div>
   </section>
+  <hr></hr>
 
   <!-- INCLUINDO O FOOTER -->
   <!-- FOOTER -->

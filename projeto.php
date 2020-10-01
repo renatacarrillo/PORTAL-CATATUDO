@@ -127,6 +127,7 @@
     </div>
   </nav>
 
+  <hr></hr>
   <!-- INCLUINDO O FOOTER -->
   <!-- FOOTER -->
   <?php include 'includes/footer.php' ?>

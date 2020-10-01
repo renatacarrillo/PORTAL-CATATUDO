@@ -191,9 +191,6 @@
     height: 2px;
   }
 
-  /* FOOTER */
-
-
   .mg-mob-foot {
     margin-top: 30px;
   }
@@ -312,7 +309,7 @@
     margin-top: 120px;
   }
 
-  /* FOOTER */
+  /******** FOOTER ***********/
 }
 
 /******** DESKTOP PADRÃO ********/
@@ -566,7 +563,6 @@
     border: 2px solid #38e70d;
   }
 
-  /* FOOTER */
 
   /*=================== PÁGINA FORMULÁRIO ===================*/
   .verdecla {
@@ -781,7 +777,6 @@
     margin-left: 300px;
   }
 
-  /* FOOTER */
 
   .acess-adm {
     color: #000000;
