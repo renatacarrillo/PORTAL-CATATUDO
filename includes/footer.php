@@ -70,11 +70,11 @@
 
   <!-- Copyright -->
   <div class='text-center mb-1 mt-1'>
-    <img src='./IMAGENS/CATATUDO1.png' class='img-foot-tam img-fluid' alt='logotipo CATATUDO'>
+    <img src='./IMAGENS/CATATUDOweb.png' class='img-fluid' alt='logotipo CATATUDO'>
   </div>
   <div class="row">
       <div class="col text-center text-white-50 bg-dark">
-      <small>2020 - PCT - Projeto CataTudo - Reginaldo Domingos, Renata Carrillo e Thais Machado</small>
+      <small>2020 - ® PCT - Projeto CataTudo - Reginaldo Domingos, Renata Carrillo e Thais Machado</small>
       </div>
     </div>
 </section>

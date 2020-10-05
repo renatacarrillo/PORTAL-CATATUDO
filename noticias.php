@@ -47,37 +47,92 @@
     </div>
   </nav>
 
-  <section>
-    <div class="container">
-      <div class="row">
-        <div class="col-sm esp-caixas">
-          <h1 class="teste text-center">NOTÍCIAS E NOVIDADES</h1>
-          <hr>
-          </hr>
-        </div>
-      </div>
 
-      <div class="row">
-        <div class="col-sm-12 ml-3 mt-5 mb-5">
-          <a href='https://www.portalr3.com.br/2019/02/acao-lixo-marinho-retira-600-garrafas-pet-do-mar-em-ilhabela/'>
-            <img src="./IMAGENS/not-garr.png" class="efeito2 img-fluid btn btn-link" alt="">
-          </a>
-          <h2 class="teste mt-2 ml-4">Ação Lixo Marinho retira 600 garrafas pet do mar em Ilhabela</h2>
-          <p class="square-color mt-1 ml-4">DIRETO DE: portalr3.com.br</p>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-sm-12 ml-3 mt-5 mb-5">
-          <a href='https://boxedwaterisbetter.com/'>
-            <img src="./IMAGENS/boxedwater.png" class="efeito2 img-fluid btn btn-link" alt="">
-          </a>
-          <h2 class="teste mt-2 ml-4">Empresa Boxed Water Is Better LLC faz garrafas de um jeito inovador.</h2>
-          <p class="square-color mt-1 ml-4">DIRETO DE: boxedwaterisbetter.com</p>
-        </div>
-      </div>
+  <div class="row">
+    <div class="col-sm esp-caixas">
+    <h1 class="teste text-center">NOTÍCIAS E NOVIDADES</h1>
+      <hr></hr>
     </div>
-  </section>
+  </div>
+
+  <div class="container">
+  <div class="row">
+    <!-- <div class="w-100"></div> -->
+
+    <div class="col-sm-6 mb-2 mt-4">
+      <a href='https://www.portalr3.com.br/2019/02/acao-lixo-marinho-retira-600-garrafas-pet-do-mar-em-ilhabela/'>
+        <img src="./IMAGENS/not-garr.png" class="efeito2 img-fluid btn btn-link" alt="Lixo Marinho">
+      </a>
+        <h2 class="teste mt-2 ml-3">Ação Lixo Marinho retira 600 garrafas pet do mar em Ilhabela</h2>
+          <p class="square-color mt-1 ml-4">DIRETO DE: portalr3.com.br</p>
+    </div>
+
+    <div class="col-sm-1 lnha"></div>
+
+    <div class="col-sm-5 mt-3">
+    <h3 class="teste text-center">CIDADES DISPONÍVEIS</h3>
+
+    <!-- <div class="col-sm-6 esp-caixas"> -->
+      <table class="table mt-3">
+        <thead class="table-success">
+    <tr>
+      <th scope="col">Rank</th>
+      <th scope="col">Cidade</th>
+      <th scope="col">Empresa</th>
+      <th scope="col">Nº Usuários</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1º</th>
+      <td>São Roque</td>
+      <td>Prefeitura</td>
+      <td>1220</td>
+    </tr>
+    <tr>
+      <th scope="row">2º</th>
+      <td>São Roque</td>
+      <td>Prefeitura</td>
+      <td>920</td>
+    </tr>
+    <tr>
+      <th scope="row">3º</th>
+      <td>São Roque</td>
+      <td>Prefeitura</td>
+      <td>820</td>
+    </tr>
+    <tr>
+      <th scope="row">4º</th>
+      <td>São Roque</td>
+      <td>Prefeitura</td>
+      <td>720</td>
+    </tr>
+    <tr>
+      <th scope="row">5º</th>
+      <td>São Roque</td>
+      <td>Prefeitura</td>
+      <td>620</td>
+    </tr>
+
+  </tbody>
+</table>
+<p>*Cidades que incluiram o nosso projeto em sua gestão.</p>
+    </div>
+    <div class="w-100"></div>
+    
+    <div class="col-sm-6 mt-1 mb-2">
+      <a href='https://boxedwaterisbetter.com/'>
+        <img src="./IMAGENS/boxedwater.png" class="efeito2 img-fluid btn btn-link" alt="Boxed Water Is Better">
+      </a>
+        <h2 class="teste mt-2 ml-3">Empresa Boxed Water Is Better LLC faz garrafas de um jeito inovador.</h2>
+          <p class="square-color mt-1 ml-4">DIRETO DE: boxedwaterisbetter.com</p>
+    </div>
+
+  </div>
+</div>
+
+
+  <!-- LINHA DE DIVISÃO PARA O FOOTE -->
   <hr></hr>
 
   <!-- INCLUINDO O FOOTER -->

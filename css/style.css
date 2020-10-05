@@ -223,6 +223,12 @@
     width: 0rem;
   }
 
+  .lnha {
+    border-left: 3px solid rgba(0, 128, 0, 0.582);
+    height: 100px;
+    margin-top: 10px;
+  }
+  
   /* NAV PRINCIPAL */
   .verdeesc {
     color: #55df06;
@@ -511,6 +517,12 @@
     margin-left: 400px;
   }
 
+  .lnha {
+    border-left: 3px solid rgba(0, 128, 0, 0.582);
+    height: 100px;
+    margin-top: 10px;
+  }
+
   /*=================== PÁGINA PROJETO ===================*/
   .posi-proj-um {
     margin-top: 130px;
@@ -706,6 +718,12 @@
   }
 
   .vl {
+    border-left: 3px solid rgba(0, 128, 0, 0.582);
+    height: 100px;
+    margin-top: 10px;
+  }
+
+  .lnha {
     border-left: 3px solid rgba(0, 128, 0, 0.582);
     height: 100px;
     margin-top: 10px;
