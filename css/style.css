@@ -187,13 +187,8 @@
   }
 
   .linha-cor-nav {
-    background-image: linear-gradient(rgb(6, 231, 17), rgb(14, 105, 2));
+    background-image: linear-gradient(#06e711, rgb(14, 105, 2));
     height: 2px;
-  }
-
-  /* FOOTER */
-  footer {
-    background-image: linear-gradient(rgb(6, 231, 17), rgb(14, 105, 2));
   }
 
   .img-foot-tam {
@@ -316,11 +311,6 @@
 
   .esp-nav-dois-home {
     margin-top: 120px;
-  }
-
-  /* FOOTER */
-  footer {
-    background-image: linear-gradient(rgb(6, 231, 17), rgb(14, 105, 2));
   }
 }
 
@@ -575,11 +565,6 @@
     border: 2px solid #38e70d;
   }
 
-  /* FOOTER */
-  footer {
-    background-image: linear-gradient(rgb(6, 231, 17), rgb(14, 105, 2));
-  }
-
   .img-foot-tam {
     width: 150px;
   }
@@ -799,11 +784,6 @@
     margin-left: 300px;
   }
 
-  /* FOOTER */
-  footer {
-    background-image: linear-gradient(rgb(6, 231, 17), rgb(14, 105, 2));
-  }
-
   .acess-adm {
     color: #000000;
     font-size: large;
@@ -918,4 +898,34 @@
 
 #section-register i {
   font-size: 100px;
+}
+
+/* FOOTER */
+.footer {
+  background-image: linear-gradient(#06e711, rgb(14, 105, 2));
+}
+
+footer svg {
+  fill: #06e711;
+}
+
+.footerCopy {
+  background-color: #111111;
+  color: #f1f0f0;
+  font-size: 12px;
+}
+
+.redesSocias svg {
+  fill: #ffffff;
+  color: #ffffff;
+  width: 30px;
+  height: 30px;
+}
+
+.footer a.text-white:hover,
+a.redesSocias:hover svg {
+  fill: #111111;
+  color: #111111 !important;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
 }

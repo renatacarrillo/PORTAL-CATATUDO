@@ -21,7 +21,7 @@
 
 </head>
 
-<body class='container-fluid'>
+<body>
   <!-- INCLUINDO O HEADER -->
   <?php
   include("includes/header.php");
