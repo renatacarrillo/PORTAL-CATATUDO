@@ -194,7 +194,6 @@
   .img-foot-tam {
     width: 150px;
   }
-
   .mg-mob-foot {
     margin-top: 30px;
   }
@@ -227,6 +226,12 @@
     width: 0rem;
   }
 
+  .lnha {
+    border-left: 3px solid rgba(0, 128, 0, 0.582);
+    height: 100px;
+    margin-top: 10px;
+  }
+  
   /* NAV PRINCIPAL */
   .verdeesc {
     color: #55df06;
@@ -325,7 +330,7 @@
 
   /* ESTILIZAÇÕES DO HEADER */
   .img-logotipo {
-    width: 150px;
+    width: 170px;
   }
 
   header {
@@ -513,6 +518,12 @@
     margin-left: 400px;
   }
 
+  .lnha {
+    border-left: 3px solid rgba(0, 128, 0, 0.582);
+    height: 100px;
+    margin-top: 10px;
+  }
+
   /*=================== PÁGINA PROJETO ===================*/
   .posi-proj-um {
     margin-top: 130px;
@@ -569,6 +580,7 @@
     width: 150px;
   }
 
+
   /*=================== PÁGINA FORMULÁRIO ===================*/
   .verdecla {
     color: #29ac08;
@@ -576,9 +588,7 @@
   }
 
   /*================= PÁGINA QUEM SOMOS ====================*/
-  .posi-not-img-quem-somos {
-    margin-left: 30px;
-  }
+
 }
 
 /* Desktop grande */
@@ -713,6 +723,12 @@
   }
 
   .vl {
+    border-left: 3px solid rgba(0, 128, 0, 0.582);
+    height: 100px;
+    margin-top: 10px;
+  }
+
+  .lnha {
     border-left: 3px solid rgba(0, 128, 0, 0.582);
     height: 100px;
     margin-top: 10px;

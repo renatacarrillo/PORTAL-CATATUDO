@@ -84,23 +84,101 @@
     </div>
   </section>
 
-  <section>
+  <!-- NAV PARCEIROS -->
+  <nav class="esp-nav-home">
     <div class="container">
       <div class="row">
-        <div class="col-sm esp-caixas-proj">
-          <h2 class="square-color text-center">O objetivo maior é te</h2>
-          <h1 class="sombreamento-text text-center">CONSCIENTIZAR!</h1>
-          <img src="./IMAGENS/Reciclagem-1.png" class="efeito2 img-fluid mt-5 mb-5" alt="">
+        <div class="col-sm esp-caixas-b tam-mob-ind">
+          <h1 class="teste text-center"> PARCEIROS </h1>
+          <hr>
+          </hr>
+
+          <div class="row mt-5">
+            <div class="col-sm tam-mob-ind-li">
+              <h3 class="mt-5 mb-5 ml-1">MORADORES</h3>
+              <i class="efeito fas fa-users icons-nav-green ml-5 mb-5"></i>
+            </div>
+
+            <div class="vl mr-5"></div>
+
+            <div class="col-sm tam-mob-ind-lix">
+              <h3 class="mt-5 mb-5 ml-1">COLETORES</h3>
+              <i class="efeito fas fa-trash-alt icons-nav ml-5 mb-5"></i>
+            </div>
+
+            <div class="vl mr-5"></div>
+
+            <div class="col-sm tam-mob-ind-lix">
+              <h3 class="mt-5 mb-5 ml-1">PREFEITURAS</h3>
+              <i class="efeito fas fa-archway icons-nav-green ml-5 mb-5"></i>
+            </div>
+
+            <div class="vl mr-4"></div>
+
+            <div class="col-sm tam-mob-ind-lix">
+              <h3 class="mt-5 mb-5 ml-1">INDÚSTRIAS</h3>
+              <i class="efeito fas fa-city icons-nav ml-5 mb-3"></i>
+            </div>
+
+          </div>
         </div>
       </div>
     </div>
-  </section>
+    </div>
+  </nav>
 
+  <!-- NAV GRÁFICO -->
+  <nav class="esp-nav-home">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm esp-caixas-b tam-mob-ind">
+          <h1 class="teste text-center font-weight-bold"> EXPANSÃO DO PROJETO NO ANO DE 2020 </h1>
+          <hr>
+          </hr>
+          <canvas class="my-4 w-100 chartjs-render-monitor" id="myChart" width="1522" height="642" style="display: block; height: 514px; width: 1218px;"></canvas>
+          </div>
+      </div>
+    </div>
+    </div>
+  </nav>
+
+
+  <hr></hr>
   <!-- INCLUINDO O FOOTER -->
   <!-- FOOTER -->
   <?php include 'includes/footer.php' ?>
-
+  
+  <!-- GRÁFICO -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
+  <script>
+      var ctx = document.getElementById("myChart");
+      var myChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"],
+          datasets: [{
+            data: [100, 200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000, 2200],
+            lineTension: 0,
+            backgroundColor: 'transparent',
+            borderColor: '#008000',
+            borderWidth: 4,
+            pointBackgroundColor: '#008000'
+          }]
+        },
+        options: {
+          scales: {
+            yAxes: [{
+              ticks: {
+                beginAtZero: false
+              }
+            }]
+          },
+          legend: {
+            display: false,
+          }
+        }
+      });
+    </script>
 
 </body>
-
 </html>

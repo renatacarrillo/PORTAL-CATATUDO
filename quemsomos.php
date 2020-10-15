@@ -34,7 +34,7 @@
         <div class="col-sm-6">
           <h1 class="font-weight-bold ml-5 posi-proj-um">CONHEÇA UM POUCO MAIS SOBRE NÓS!</h1>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-5">
           <img src="./IMAGENS/quem-somos.jpg" class="efeito2 img-fluid posi-not-img-quem-somos posi-app-quem-somos mt-5" alt="">
         </div>
       </div>
@@ -44,7 +44,7 @@
   <!-- SECTION PÁGINA QUEM SOMOS -->
   <section class="mt-5 mb-5">
 
-    <div class="container-fluid">
+    <div class="container">
       <div class="row">
         <div class="col-sm-12 mt-3 mb-3">
           <h1 class="text-center sombreamento-text"> IDEIA DO PROJETO </h1>
@@ -60,7 +60,7 @@
       </div>
     </div>
 
-    <div class="container-fluid">
+    <div class="container">
       <div class="row">
         <div class="col-sm-12 mt-3">
           <h1 class="text-center sombreamento-text"> SOBRE NÓS </h1>
@@ -73,10 +73,10 @@
       </div>
     </div>
 
-    <div class="container-fluid mt-5 mb-3">
+    <div class="container mt-5 mb-3">
       <div class="row">
         <div class="col-sm-4 ml-4 mt-3">
-          <div class="card border-warning" style="width: 20rem;">
+          <div class="card border-warning" style="width: 15rem;">
             <img class="card-img-top" src="./IMAGENS/reginaldo.jpeg" alt="Foto de Reginaldo">
             <div class="card-body">
               <h5 class="card-title">Reginaldo Domingos</h5>
@@ -89,7 +89,7 @@
 
 
         <div class="col-sm-4 ml-5 mt-3">
-          <div class="card border-danger" style="width: 20rem;">
+          <div class="card border-danger" style="width: 15rem;">
             <img class="card-img-top" src="./IMAGENS/renata.jpeg" alt="Foto de Renata">
             <div class="card-body">
               <h5 class="card-title">Renata Carrillo</h5>
@@ -101,7 +101,7 @@
         </div>
 
         <div class="col-sm-2 ml-5 mt-3">
-          <div class="card border-success" style="width: 20rem;">
+          <div class="card border-success" style="width: 15rem;">
             <img class="card-img-top" src="./IMAGENS/thais.jpeg" alt="Foto de Thais">
             <div class="card-body">
               <h5 class="card-title">Thais Machado</h5>
@@ -118,6 +118,7 @@
 
   </section>
 
+  <hr></hr>
   <!-- INCLUINDO O FOOTER -->
   <!-- FOOTER -->
   <?php include 'includes/footer.php' ?>

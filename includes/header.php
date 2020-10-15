@@ -11,7 +11,7 @@ if (!defined('SITE_PATH')) {
         <a href='index.php'><img src='./IMAGENS/CATATUDO1.png' class='img-logotipo btn btn-link' alt='Logotipo CATATUDO'></a>
       </div>
       <nav class='col-sm-12 col-md-8 text-right'>
-        <a href='noticias.php' type='button' class='efeito3 btn corbtn successfont-weight-bold'>NOTÍCIAS</a>
+        <a href='noticias.php' type='button' class='efeito3 btn corbtn font-weight-bold'>NOTÍCIAS</a>
         <a href='projeto.php' type='button' class='efeito3 btn corbtn font-weight-bold'>PROJETO</a>
         <!-- <a href='cadastro.php' type='button' class='efeito3 btn corbtn font-weight-bold'>CADASTRE-SE</a> -->
         <!-- botão via jquery -->
