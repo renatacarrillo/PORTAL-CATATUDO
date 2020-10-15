@@ -13,10 +13,7 @@ $email = $_POST['email'];
 $phone = $_POST['phone'];
 $password = $_POST['password'];
 
-
-// $url = "https://catatudo-api.herokuapp.com/api/v1/users";
 $url = CATATUDO_API . "/users";
-
 
 $userData = array("name" => $name, "email" => $email, "password" => $password, "phone" => $phone);
 
