@@ -49,9 +49,6 @@ $(document).ready(function () {
         } else {
           msgReponse(retorno.description, "error");
         }
-
-        console.log(msg);
-
         botao.attr("disabled", false).html("CADASTRAR");
       })
       .fail(function (jqXHR, textStatus, msg) {
