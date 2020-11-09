@@ -132,9 +132,6 @@
 </div>
 
 
-  <!-- LINHA DE DIVISÃO PARA O FOOTE -->
-  <hr></hr>
-
   <!-- INCLUINDO O FOOTER -->
   <!-- FOOTER -->
   <?php include 'includes/footer.php' ?>

@@ -221,7 +221,6 @@
     </div>
   </nav>
 
-  <hr></hr>
   <!-- FOOTER -->
   <!-- INCLUINDO O FOOTER -->
   <?php include 'includes/footer.php' ?>

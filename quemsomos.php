@@ -106,7 +106,7 @@
             <div class="card-body">
               <h5 class="card-title">Thais Machado</h5>
               <p class="card-text">Estudante do curso de Sistemas para Internet da FATEC São Roque.</p>
-              <p class="card-text">Suporte no Sistema na </p>
+              <p class="card-text">Suporte no Sistema na Lavsim</p>
               <a href="https://github.com/thaismachado94" class="btn btn-primary">Perfil do GitHub</a>
             </div>
           </div>
@@ -118,7 +118,6 @@
 
   </section>
 
-  <hr></hr>
   <!-- INCLUINDO O FOOTER -->
   <!-- FOOTER -->
   <?php include 'includes/footer.php' ?>
